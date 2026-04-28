@@ -4,6 +4,7 @@
 #### 1. Connecting WLED lights
 
 Used light strips for windows, and pixels for bushes. Each of the windows got a 5v power supply which is show in photo bellow which powers both the lights and the controller.
+<img width="404" height="263" alt="Screenshot 2026-04-28 101540" src="https://github.com/user-attachments/assets/0b5f13df-2d4f-4900-be40-faf660b1b7b5" />
 
 
 
