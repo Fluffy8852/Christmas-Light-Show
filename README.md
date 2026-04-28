@@ -1,3 +1,4 @@
+
 ### My new light show uses Xlights and WLED controls. This project has been on going and updating since 2023. There are 2 annual shows: Haloween and Christmas.
 
 #### 1. Connecting WLED lights
@@ -9,7 +10,8 @@ Used light strips for windows, and pixels for bushes. Each of the windows got a 
 #### 2. Connecting other devices
 
 Built my own outlet box that controls basic lights on and off.
-
+Here is the wiring diagram, power comes in 120v and out 120v, just the one wire goes through the relay. 
+<img width="297" height="251" alt="Screenshot 2026-04-28 092226" src="https://github.com/user-attachments/assets/d95f2309-00c8-49e5-a027-8845bde9c228" />
 
 
 #### 3. Falcon Player (FPP) and FM Radio
