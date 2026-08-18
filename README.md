@@ -1,5 +1,4 @@
-
-### My new light show uses Xlights and WLED controls. This project has been on going and updating since 2023. There are 2 annual shows: Haloween and Christmas.
+### My new light show uses Xlights and WLED controls. This project has been on going and updating since 2023. There are 2 annual shows: Halloween and Christmas.
 
 #### 1. Connecting WLED lights
 
@@ -17,14 +16,14 @@ Here is the wiring diagram, power comes in 120v and out 120v, just the one wire 
 
 #### 3. Falcon Player (FPP) and FM Radio
 
-Raspiberry Pi 3b+ flashed with FPP connects to each controller IP address. The Pi is connected to an FM radio which allows people to listen in there cars.
+Raspberry Pi 3b+ flashed with FPP connects to each controller IP address. The Pi is connected to an FM radio which allows people to listen in there cars.
 
 
 
 #### 4. Xlights
 
-Took photo of house and then mapped out where the lights were refence to the photo. Then connected controllers via IP, and grouped each string of lights together to something that made sense to me for effects later. Now was able to start programing the music to the lights. (This part takes the most ammount of time about hour for each minute of song)
-
+Took photo of house and then mapped out where the lights were reference to the photo. Then connected controllers via IP, and grouped each string of lights together to something that made sense to me for effects later. Now was able to start programing the music to the lights. (This part takes the most amount of time about hour for each minute of song)
+<img width="1919" height="981" alt="Screenshot 2026-08-18 100103" src="https://github.com/user-attachments/assets/876c0221-1ec4-402f-ad5d-08a281af44f1" />
 
 
 #### 5. Sending Xlights Sequence to FPP
@@ -37,7 +36,7 @@ First, start with high resolution render, then connect to FPP to send file.
 
 Here are my 2 most recent shows
 
-##### Haloween 2025: 
+##### Halloween 2025: 
 
 https://youtu.be/pX\_UAeRBoAQ?si=xViTBxOyZJiqW\_Nv
 
